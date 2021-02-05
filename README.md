@@ -7,6 +7,7 @@
     - base (+ Aux1) or (+ Aux2) or (+ Aux1 + Aux2)
     - conf (+ Aux1) or (+ Aux2) or (+ Aux1 + Aux2)
 - ToDo
+  - evaluation matrix
   - base model
   - conf model
   - base aux model
