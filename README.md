@@ -8,7 +8,7 @@
     - conf (+ Aux1) or (+ Aux2) or (+ Aux1 + Aux2)
 - ToDo
   - ~~evaluation matrix~~
-  - base model
+  - ~~base model~~
   - conf model
   - base aux model
   - conf aux model
