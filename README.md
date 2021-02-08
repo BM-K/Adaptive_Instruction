@@ -9,6 +9,6 @@
 - ToDo
   - ~~evaluation matrix~~
   - ~~base model~~
-  - conf model
+  - ~~conf model~~
   - base aux model
   - conf aux model
