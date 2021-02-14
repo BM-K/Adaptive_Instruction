@@ -12,3 +12,5 @@
   - ~~conf model~~
   - base aux model
   - conf aux model
+  
+*gemini -> leo*
