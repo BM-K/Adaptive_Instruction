@@ -4,7 +4,7 @@
   
   - ~~base model~~
   - pre ln trans
-  - conv trans
+  - ~~conv trans~~
   - pre ln conv trans
   
   - base aux
