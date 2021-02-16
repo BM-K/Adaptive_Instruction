@@ -3,13 +3,9 @@
   - ~~evaluation matrix~~
   
   - ~~base model~~
-  - pre ln trans
-  - ~~conv trans~~
-  - pre ln conv trans
+  - conv trans
   
-  - base aux
-  - pre ln trans aux
+  - ~~base aux~~
   - conv trans aux
-  - pre ln conv trans aux
-  
+ 
 *gemini -> leo*
