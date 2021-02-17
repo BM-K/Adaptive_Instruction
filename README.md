@@ -3,9 +3,9 @@
   - ~~evaluation matrix~~
   
   - ~~base model~~
-  - conv trans
+  - base adaptive variance
   
   - ~~base aux~~
-  - conv trans aux
+  - base adaptive variance aux
  
 *gemini -> leo*
