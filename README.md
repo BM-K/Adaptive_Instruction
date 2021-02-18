@@ -1,4 +1,4 @@
-# End_to_End_Conformer
+# Adaptive Instruction
 - Experiments
   - ~~evaluation matrix~~
   
