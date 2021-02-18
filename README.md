@@ -7,5 +7,7 @@
   
   - ~~base aux~~
   - base adaptive variance aux
+  
+  - base variance check
  
 *gemini -> leo*
