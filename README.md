@@ -1,14 +1,8 @@
 # Adaptive Instruction
 - Experiments
   - ~~evaluation matrix~~
-  
   - ~~base model~~
-  - base adaptive variance
-  
-  - ~~base aux~~
-  - base adaptive variance aux
-  
-  - ~~base variance check~~
+  - ~~scaling model~~
  
 *gemini -> leo* <br>
 *reset scaling method*
