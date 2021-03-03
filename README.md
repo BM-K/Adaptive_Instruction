@@ -16,3 +16,6 @@
 - ToDo
   - dist1, 2
   - dependency of residual branch
+  - english
+  - ~~max scaling~~
+  - average scaling
