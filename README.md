@@ -10,5 +10,5 @@
   
   - ~~base variance check~~
  
-*gemini -> leo*
-*reset scaling method
+*gemini -> leo* <br>
+*reset scaling method*
