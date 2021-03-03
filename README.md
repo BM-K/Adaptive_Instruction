@@ -18,4 +18,4 @@
   - dependency of residual branch
   - english
   - ~~max scaling~~
-  - average scaling
+  - ~~average scaling~~
