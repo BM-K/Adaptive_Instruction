@@ -1,5 +1,5 @@
 # Scaling Transformer
-Training a Simple and Effective Model for Dialogue Generation with scaling transformer.
+Training a Simple and Effective Model for Dialogue Generation with Scaling Transformer.
 
 - Experiments
   - ~~evaluation matrix~~
