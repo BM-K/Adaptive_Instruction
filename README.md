@@ -12,7 +12,8 @@ Training a Simple and Effective Transformer Model for Dialogue Generation with S
 - ToDo
   - dist1, 2
   - dependency of residual branch
-  - english
+  - ~~english~~
   - reddit
   - ~~max scaling~~
   - ~~average scaling~~
+  - searching another en single turn data sets
