@@ -17,3 +17,5 @@ Training a Simple and Effective Transformer Model for Dialogue Generation with S
   - ~~max scaling~~
   - ~~average scaling~~
   - searching another en single turn data sets
+
+reddit data -> 24만 3만 3만, 4이상 64이하 데이터, 특수제거
