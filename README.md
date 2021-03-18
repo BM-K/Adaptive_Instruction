@@ -5,6 +5,7 @@ Training a Simple and Effective Transformer Model for Dialogue Generation with S
   - ~~evaluation matrix~~
   - ~~base model~~
   - ~~scaling model~~
+  - trans
  
 *gemini -> leo* <br>
 *reset scaling method*
