@@ -19,3 +19,4 @@ Training a Simple and Effective Transformer Model for Dialogue Generation with S
   - ~~average scaling~~
   - searching another en single turn data sets
   - perturbation on parms
+  - dropout
