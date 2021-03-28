@@ -9,6 +9,7 @@ Training a Simple and Effective Transformer Model for Dialogue Generation with S
  
 *gemini -> leo* <br>
 *reset scaling method*
+*del remote dir*
 
 - ToDo
   - dist1, 2
