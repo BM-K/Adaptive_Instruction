@@ -8,8 +8,8 @@ Training a Simple and Effective Transformer Model for Dialogue Generation with S
   - https://github.com/jadore801120/attention-is-all-you-need-pytorch
  
 *gemini -> leo* <br>
-*reset scaling method*
-*del remote dir*
+*reset scaling method* <br>
+*del remote dir* <br>
 
 - ToDo
   - dist1, 2
