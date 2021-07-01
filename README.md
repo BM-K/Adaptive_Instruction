@@ -4,9 +4,9 @@
   - base
     - 25.62
   - scale
-    - 0
+    - 27.40
   - varL
-    - 0
+    - 
 - NMT
   - base
     - 0
