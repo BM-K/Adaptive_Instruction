@@ -1,2 +1,6 @@
 # Scaling Transformer
-Training a Simple and Effective Transformer with Scaling.
+## Experiments
+ChitChat <br>
+NMT <br>
+NSMC <br>
+IMDB <br>
