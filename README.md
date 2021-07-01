@@ -1,6 +1,30 @@
 # Scaling Transformer
 ## Experiments
-ChitChat <br>
-NMT <br>
-NSMC <br>
-IMDB <br>
+- ChitChat
+  - base
+    - 25.62
+  - scale
+    - 0
+  - varL
+    - 0
+- NMT
+  - base
+    - 0
+  - scale
+    - 0
+  - varL
+    - 0
+- NSMC
+  - base
+    - 0
+  - scale
+    - 0
+  - varL
+    - 0
+- IMDB
+  - base
+    - 0
+  - scale
+    - 0
+  - varL
+    - 0
