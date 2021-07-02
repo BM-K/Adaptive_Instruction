@@ -20,3 +20,7 @@
     - 0
   - scale
     - 0
+
+### Doing
+- Checking residual outputs dependency <br>
+- Checking reference of scalingF
