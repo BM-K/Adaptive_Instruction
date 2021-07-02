@@ -1,21 +1,21 @@
 # Scaling Transformer
 ## Experiments
-- ChitChat
+- ChitChat (BLEU)
   - base
     - 25.62
   - scale
     - 27.40
-- NMT
+- NMT (BLEU)
   - base
     - 0
   - scale
     - 0
-- NSMC
+- NSMC (ACC)
   - base
     - 83.18
   - scale
     - 83.45
-- IMDB
+- IMDB (ACC)
   - base
     - 0
   - scale
