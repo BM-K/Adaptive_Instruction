@@ -5,26 +5,18 @@
     - 25.62
   - scale
     - 27.40
-  - varL
-    - 0
 - NMT
   - base
     - 0
   - scale
     - 0
-  - varL
-    - 0
 - NSMC
   - base
-    - 0
+    - 83.18
   - scale
-    - 0
-  - varL
-    - 0
+    - 83.45
 - IMDB
   - base
     - 0
   - scale
-    - 0
-  - varL
     - 0
